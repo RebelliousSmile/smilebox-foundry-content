@@ -1,0 +1,21 @@
+{
+  "id": "maudit-graal",
+  "title": "Maudit Graal",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "packs": [
+    {
+      "name": "maudit-graal",
+      "label": "Maudit Graal",
+      "path": "packs/maudit-graal",
+      "type": "Adventure",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ]
+}
