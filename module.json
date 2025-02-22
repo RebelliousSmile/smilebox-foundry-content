@@ -15,7 +15,8 @@
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      }
+      },
+      "system": "worldofdarkness"
     }
   ]
 }
