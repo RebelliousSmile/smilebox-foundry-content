@@ -1,22 +1,81 @@
 {
-  "id": "maudit-graal",
-  "title": "Maudit Graal",
-  "version": "1.0.0",
+  "id": "smilebox-foundry-content",
+  "title": "Smilebox (Foundry Content)",
+  "version": "1.0.1",
   "compatibility": {
     "minimum": "12",
     "verified": "12"
   },
   "packs": [
     {
-      "name": "maudit-graal",
-      "label": "Maudit Graal",
-      "path": "packs/maudit-graal",
+      "name": "monde-des-tenebres",
+      "label": "Monde des Ténèbres",
+      "path": "packs/monde-des-tenebres",
       "type": "Adventure",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "worldofdarkness"
+      }
+    },
+    {
+      "name": "pbta",
+      "label": "PbtA",
+      "path": "packs/pbta",
+      "type": "Adventure",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "otherscape",
+      "label": "Otherscape",
+      "path": "packs/otherscape",
+      "type": "Adventure",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "one-shots",
+      "label": "One Shots",
+      "path": "packs/one-shots",
+      "type": "Adventure",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "le-temps-des-moissons",
+      "label": "Le Temps des Moissons",
+      "path": "packs/le-temps-des-moissons",
+      "type": "Adventure",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "legend-in-the-mist",
+      "label": "Legend in the Mist",
+      "path": "packs/legend-in-the-mist",
+      "type": "Adventure",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "fading-suns",
+      "label": "Fading Suns",
+      "path": "packs/fading-suns",
+      "type": "Adventure",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     }
   ]
 }

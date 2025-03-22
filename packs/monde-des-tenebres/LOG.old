@@ -1,0 +1,15 @@
+2025/03/22-15:59:45.892 7afc Recovering log #3
+2025/03/22-15:59:45.895 7afc Level-0 table #5: started
+2025/03/22-15:59:45.911 7afc Level-0 table #5: 730303 bytes OK
+2025/03/22-15:59:45.927 7afc Delete type=0 #3
+2025/03/22-15:59:45.928 7afc Delete type=3 #2
+2025/03/22-16:48:13.082 2540 Level-0 table #8: started
+2025/03/22-16:48:13.082 2540 Level-0 table #8: 0 bytes OK
+2025/03/22-16:48:13.089 2540 Delete type=0 #6
+2025/03/22-16:48:13.124 2540 Manual compaction at level-0 from '!adventures!1bhqdu1djdwINSBc' @ 72057594037927935 : 1 .. '!folders!dqO6mONLQuGIwPJJ' @ 0 : 0; will stop at '!folders!dqO6mONLQuGIwPJJ' @ 1 : 1
+2025/03/22-16:48:13.124 2540 Compacting 1@0 + 0@1 files
+2025/03/22-16:48:13.136 2540 Generated table #9@0: 4 keys, 365527 bytes
+2025/03/22-16:48:13.136 2540 Compacted 1@0 + 0@1 files => 365527 bytes
+2025/03/22-16:48:13.143 2540 compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/03/22-16:48:13.143 2540 Delete type=2 #5
+2025/03/22-16:48:13.143 2540 Manual compaction at level-0 from '!folders!dqO6mONLQuGIwPJJ' @ 1 : 1 .. '!folders!dqO6mONLQuGIwPJJ' @ 0 : 0; will stop at (end)
