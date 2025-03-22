@@ -2,6 +2,8 @@
   "id": "smilebox-foundry-content",
   "title": "Smilebox (Foundry Content)",
   "version": "1.0.1",
+  "manifest": "https://raw.githubusercontent.com/RebelliousSmile/smilebox-foundry-content/main/module.json",
+  "download": "https://raw.githubusercontent.com/RebelliousSmile/smilebox-foundry-content/main/module.zip",
   "compatibility": {
     "minimum": "12",
     "verified": "12"
