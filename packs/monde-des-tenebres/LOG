@@ -1,7 +1,7 @@
-2025/03/23-16:55:37.491 3188 Recovering log #15
-2025/03/23-16:55:37.507 3188 Delete type=0 #15
-2025/03/23-16:55:37.507 3188 Delete type=3 #14
-2025/03/23-17:32:37.482 40c4 Level-0 table #19: started
-2025/03/23-17:32:37.482 40c4 Level-0 table #19: 0 bytes OK
-2025/03/23-17:32:37.491 40c4 Delete type=0 #17
-2025/03/23-17:32:37.509 40c4 Manual compaction at level-0 from '!adventures!1bhqdu1djdwINSBc' @ 72057594037927935 : 1 .. '!folders!dqO6mONLQuGIwPJJ' @ 0 : 0; will stop at (end)
+2025/03/23-19:38:14.955 5df0 Recovering log #22
+2025/03/23-19:38:14.971 5df0 Delete type=0 #22
+2025/03/23-19:38:14.971 5df0 Delete type=3 #20
+2025/03/23-22:28:34.886 40c4 Level-0 table #27: started
+2025/03/23-22:28:34.886 40c4 Level-0 table #27: 0 bytes OK
+2025/03/23-22:28:34.891 40c4 Delete type=0 #25
+2025/03/23-22:28:34.904 40c4 Manual compaction at level-0 from '!adventures!1bhqdu1djdwINSBc' @ 72057594037927935 : 1 .. '!folders!dqO6mONLQuGIwPJJ' @ 0 : 0; will stop at (end)

@@ -1,3 +1,7 @@
-2025/03/22-20:55:46.056 6508 Recovering log #13
-2025/03/22-20:55:46.070 6508 Delete type=0 #13
-2025/03/22-20:55:46.070 6508 Delete type=3 #12
+2025/03/23-17:33:29.975 2ae8 Recovering log #18
+2025/03/23-17:33:29.987 2ae8 Delete type=0 #18
+2025/03/23-17:33:29.988 2ae8 Delete type=3 #16
+2025/03/23-19:36:35.195 40c4 Level-0 table #23: started
+2025/03/23-19:36:35.195 40c4 Level-0 table #23: 0 bytes OK
+2025/03/23-19:36:35.201 40c4 Delete type=0 #21
+2025/03/23-19:36:35.243 40c4 Manual compaction at level-0 from '!adventures!1bhqdu1djdwINSBc' @ 72057594037927935 : 1 .. '!folders!dqO6mONLQuGIwPJJ' @ 0 : 0; will stop at (end)

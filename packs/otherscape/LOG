@@ -1,21 +1,8 @@
-2025/03/23-16:55:37.559 5df0 Recovering log #12
-2025/03/23-16:55:37.573 5df0 Delete type=0 #12
-2025/03/23-16:55:37.573 5df0 Delete type=3 #11
-2025/03/23-17:32:37.554 40c4 Level-0 table #16: started
-2025/03/23-17:32:37.554 40c4 Level-0 table #16: 0 bytes OK
-2025/03/23-17:32:37.560 40c4 Delete type=0 #14
-2025/03/23-17:32:37.560 40c4 Manual compaction at level-0 from '!adventures!jFikHO7qQ3Ebc4Px' @ 72057594037927935 : 1 .. '!adventures!jFikHO7qQ3Ebc4Px' @ 0 : 0; will stop at '!adventures!jFikHO7qQ3Ebc4Px' @ 2 : 1
-2025/03/23-17:32:37.560 40c4 Compacting 1@0 + 0@1 files
-2025/03/23-17:32:37.571 40c4 Generated table #17@0: 1 keys, 18020 bytes
-2025/03/23-17:32:37.571 40c4 Compacted 1@0 + 0@1 files => 18020 bytes
-2025/03/23-17:32:37.576 40c4 compacted to: files[ 0 1 1 0 0 0 0 ]
-2025/03/23-17:32:37.576 40c4 Delete type=2 #9
-2025/03/23-17:32:37.583 40c4 Manual compaction at level-0 from '!adventures!jFikHO7qQ3Ebc4Px' @ 2 : 1 .. '!adventures!jFikHO7qQ3Ebc4Px' @ 0 : 0; will stop at (end)
-2025/03/23-17:32:37.595 40c4 Manual compaction at level-1 from '!adventures!jFikHO7qQ3Ebc4Px' @ 72057594037927935 : 1 .. '!adventures!jFikHO7qQ3Ebc4Px' @ 0 : 0; will stop at '!adventures!jFikHO7qQ3Ebc4Px' @ 2 : 1
-2025/03/23-17:32:37.595 40c4 Compacting 1@1 + 1@2 files
-2025/03/23-17:32:37.603 40c4 Generated table #18@1: 1 keys, 18020 bytes
-2025/03/23-17:32:37.604 40c4 Compacted 1@1 + 1@2 files => 18020 bytes
-2025/03/23-17:32:37.609 40c4 compacted to: files[ 0 0 1 0 0 0 0 ]
-2025/03/23-17:32:37.609 40c4 Delete type=2 #5
-2025/03/23-17:32:37.609 40c4 Delete type=2 #17
-2025/03/23-17:32:37.615 40c4 Manual compaction at level-1 from '!adventures!jFikHO7qQ3Ebc4Px' @ 2 : 1 .. '!adventures!jFikHO7qQ3Ebc4Px' @ 0 : 0; will stop at (end)
+2025/03/23-19:38:14.995 5e4 Recovering log #21
+2025/03/23-19:38:15.008 5e4 Delete type=0 #21
+2025/03/23-19:38:15.008 5e4 Delete type=3 #19
+2025/03/23-22:28:34.891 40c4 Level-0 table #26: started
+2025/03/23-22:28:34.891 40c4 Level-0 table #26: 0 bytes OK
+2025/03/23-22:28:34.898 40c4 Delete type=0 #24
+2025/03/23-22:28:34.904 40c4 Manual compaction at level-0 from '!adventures!jFikHO7qQ3Ebc4Px' @ 72057594037927935 : 1 .. '!adventures!jFikHO7qQ3Ebc4Px' @ 0 : 0; will stop at (end)
+2025/03/23-22:28:34.904 40c4 Manual compaction at level-1 from '!adventures!jFikHO7qQ3Ebc4Px' @ 72057594037927935 : 1 .. '!adventures!jFikHO7qQ3Ebc4Px' @ 0 : 0; will stop at (end)
